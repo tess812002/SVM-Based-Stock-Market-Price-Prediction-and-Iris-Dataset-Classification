@@ -1,0 +1,2 @@
+# SVM-Based-Stock-Market-Price-Prediction-and-Iris-Dataset-Classification
+This project is an exploration of utilizing Support Vector Machines (SVM) to perform two distinct tasks: stock market price prediction and classification of the famous Iris dataset. SVM is a powerful machine learning algorithm known for its ability to handle complex, high-dimensional datasets and has shown promising results in various domains.
